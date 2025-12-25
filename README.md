@@ -22,6 +22,8 @@ A modern, stylish, and fully responsive **QR Code Generator** built with HTML, C
 ![QR Code Generator Preview](./preview.png)
 *(Add a screenshot of your app here by placing a file named `preview.png` in the repo)*
 
+<img width="1617" height="858" alt="Image" src="https://github.com/user-attachments/assets/fe00662a-78d5-4258-b582-66eb78ce78cc" />
+
 ## Technologies Used 🛠️
 
 - HTML5
