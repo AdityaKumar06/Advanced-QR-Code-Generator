@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced QR Code Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <div class="header">
+                <h1>QR Code Generator</h1>
+                <p>Enter text or URL to generate instantly</p>
+            </div>
+
+            <div class="input-group">
+                <div class="input-wrapper">
+                    <input type="text" id="qr-text" placeholder="Type your text or URL here..." autofocus>
+                    <button id="clearBtn" title="Clear">✕</button>
+                </div>
+
+                <div class="options">
+                    <div class="option">
+                        <label>Size:</label>
+                        <select id="sizes">
+                            <option value="200">200×200</option>
+                            <option value="300" selected>300×300</option>
+                            <option value="400">400×400</option>
+                            <option value="500">500×500</option>
+                            <option value="600">600×600</option>
+                        </select>
+                    </div>
+                    <div class="option">
+                        <label>Color:</label>
+                        <input type="color" id="qr-color" value="#000000">
+                    </div>
+                </div>
+            </div>
+
+            <div class="qr-container" id="qr-container">
+                <div class="placeholder">
+                    <p>Your QR code will appear here</p>
+                </div>
+            </div>
+
+            <div class="actions">
+                <button id="generateBtn">Generate QR Code</button>
+                <button id="downloadBtn" disabled>Download PNG</button>
+                <button id="copyBtn" disabled>Copy to Clipboard</button>
+            </div>
+
+           
+            <div class="developer-credit">
+                <p>Developed with ❤️ by <a href="https://aditya-intech.vercel.app/" target="_blank">Aditya Kumar</a></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
