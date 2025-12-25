@@ -30,8 +30,3 @@ A modern, stylish, and fully responsive **QR Code Generator** built with HTML, C
 - Vanilla JavaScript
 - Google Fonts (Poppins)
 
-
-
-1. Clone or download this repository
-   ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
