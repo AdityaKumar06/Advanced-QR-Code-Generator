@@ -1,2 +1,36 @@
-# Advanced-QR-Code-Generator
-This is a modern, sleek, and fully featured QR Code Generator web application built using pure HTML, CSS, and JavaScript. It allows users to instantly create high-quality QR codes for any text or URL with a beautiful, animated, and responsive user interface.
+# QR Code Generator ⚡
+
+A modern, stylish, and fully responsive **QR Code Generator** built with HTML, CSS, and JavaScript. Generate high-quality QR codes instantly with customizable size and color, download them, or copy directly to clipboard — all in a beautiful glassmorphism UI.
+
+
+
+## Features ✨
+
+- ✍️ **Real-time QR code generation** as you type
+- 🎨 **Customizable QR code color**
+- 📏 **Multiple size options** (200px to 600px)
+- ⬇️ **Download as PNG**
+- 📋 **Copy to clipboard** (with one click)
+- 🧹 **Clear input** button
+- 🌙 Sleek **glassmorphism design** with smooth animations
+- 📱 Fully **responsive** (works perfectly on mobile & desktop)
+- ⚡ Fast & lightweight (uses QRCode.js)
+- ❤️ Made with love by **Aditya Kumar**
+
+## Preview 🖼️
+
+![QR Code Generator Preview](./preview.png)
+*(Add a screenshot of your app here by placing a file named `preview.png` in the repo)*
+
+## Technologies Used 🛠️
+
+- HTML5
+- CSS3 (Custom properties, Flexbox, Animations, Backdrop Filter)
+- Vanilla JavaScript
+- Google Fonts (Poppins)
+
+
+
+1. Clone or download this repository
+   ```bash
+   git clone https://github.com/yourusername/qr-code-generator.git
