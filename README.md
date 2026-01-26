@@ -73,8 +73,6 @@ This project is licensed under the MIT License.
 
 👨‍💻 Author
 Aditya Kumar ❤️
-🔗 GitHub: @AdityaKumar06
-🔗 LinkedIn: Aditya Kumar
 
 ⭐ If you like this project, don’t forget to star the repository!
 
