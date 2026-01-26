@@ -72,7 +72,9 @@ Feel free to fork, improve, and submit a pull request.
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-Aditya Kumar ❤️
+**Aditya Kumar** ❤️  
+🔗 GitHub: [AdityaKumar06](https://github.com/AdityaKumar06)  
+🔗 LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/adityakumar0614/)  
 
 ⭐ If you like this project, don’t forget to star the repository!
 
