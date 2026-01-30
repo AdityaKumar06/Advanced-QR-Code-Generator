@@ -80,6 +80,3 @@ Aditya Kumar ❤️
 
 ---
 
-If you want, I can also make a **version with multiple screenshots in a table/grid layout** like your other projects — looks super professional on GitHub.  
-
-Do you want me to do that?
